@@ -8,8 +8,10 @@
 AlexV0611/AlexV0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 # 💫 About Me:
-j
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
@@ -22,7 +24,18 @@ j
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexV0611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlexV0611&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexV0611&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
