@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexV0611
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently a trainee
+- 🌱 I’m currently a Jr. Data Scientist 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
