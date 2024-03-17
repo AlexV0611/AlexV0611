@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Alex Vallés, a dedicated professional who has reoriented my career towards Data Science. Based in Barcelona, I bring over 15 years of experience in customer-centric roles, including Account Executive and Customer Service. With a recent degree from the IT Academy in Barcelona and a newfound passion for data, I've seamlessly transitioned into the dynamic field of Data Science.
+- 👋 I'm Alex Vallés, a seasoned professional who has recently pivoted my career towards **Data Science.
+My journey into Data Science began with a degree from the **IT Academy in Barcelona**. This educational experience, coupled with my passion for data, has allowed me to transition smoothly into this dynamic field.
+I'm excited to apply my skills, learn new ones, and dive deeper into the world of Data Science.
 - 🚀 Skills: Data Analysis, Machine Learning, Statistical Modeling, Data Visualization, Project Management
 - 🔍 I’m open to Collaboration and Opportunities!
 - 📫 Email: valles.alex76@gmail.com
