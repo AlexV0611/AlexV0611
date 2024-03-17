@@ -1,7 +1,7 @@
 # Hello, World! 👋
 I'm Alex Vallés, diving into Data Science after a bootcamp at the IT Academy in Barcelona ignited my passion for data. Excited to learn, grow, and dive into projects in the Data Science realm! 
 
-- 🚀 Skills: Data Analysis, Machine Learning, NLP, Data Visualization, Project Management
+- 🚀 Skills: Data Analysis, Machine Learning, Natural Language Processing, Data Visualization, Project Management
 - 🔍 I’m open to Collaboration and Opportunities!
 - 📫 Email: valles.alex76@gmail.com
 
