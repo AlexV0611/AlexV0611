@@ -1,5 +1,5 @@
 # Hello, World! 👋
-I'm Alex Vallés, diving into Data Science after a bootcamp at the IT Academy in Barcelona ignited my passion for data. Excited to learn, grow, and explore projects in the Data Science realm! 
+With experience in customer-centric roles and project management, I am transitioning into Data Science after completing a Bootcamp. My primary interest lies in uncovering valuable insights from data and applying my analytical skills in this field.
 
 - 🚀 Skills: Data Analysis, Machine Learning, Natural Language Processing, Data Visualization, Project Management
 - 🔍 I’m open to Collaboration and Opportunities!
