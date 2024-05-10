@@ -1,5 +1,5 @@
 # Hello, World! 👋
-With experience in customer-centric roles and project management, I am transitioning into Data Science after completing a Bootcamp. My primary interest lies in uncovering valuable insights from data and applying my analytical skills in this field.
+With experience in customer-centric roles and project management, I am transitioning into Data Science after completing a Bootcamp. My primary interest lies in uncovering valuable insights from data.
 
 - 🚀 Skills: Data Analysis, Machine Learning, Natural Language Processing, Data Visualization, Project Management
 - 🔍 I’m open to Collaboration and Opportunities!
