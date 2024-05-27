@@ -1,7 +1,7 @@
 # Hello, World! 👋
 With experience in customer-centric roles and project management, I am transitioning into Data Science after completing a Bootcamp. My primary interest lies in uncovering valuable insights from data.
 
-- 🚀 Skills: Data Analysis, Machine Learning, Natural Language Processing, Data Visualization, Project Management
+- 🚀 Skills: Machine Learning, Data Analysis, Data Visualization, Web Scraping, Natural Language Processing, Project Management
 - 🔍 I’m open to Collaboration and Opportunities!
 - 📫 Email: valles.alex76@gmail.com
 
